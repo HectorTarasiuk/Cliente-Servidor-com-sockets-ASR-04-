@@ -1,4 +1,4 @@
-Cliente-Servidor com Sockets — Multiplas Operacoes
+Cliente-Servidor com Sockets — Multiplas Operacoes (veja no modo codigo)
 
 Extensão do exemplo do Cap. 2 (slide 5) do livro-texto, com um servidor que realiza processamento real sobre as requisições e permite que o cliente escolha, a cada requisição, qual funcionalidade quer invocar.
 
